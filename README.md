@@ -1,0 +1,1 @@
+Curso de HTML/CSS que é disponibilizado pelo Curso em Vídeo do Gustavo Guanabara. Achei interessante deixar este repósitorio público no meu perfil, pois ele abrange muitos tópicos e demonstra que tenho conhecimento sobre o básico. 
